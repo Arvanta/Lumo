@@ -19,13 +19,11 @@ interface. It is built with **Python + PyQt5** and uses the **mpv** engine
 | 📊 Buffer on the seek bar | The buffered region is drawn (grey) on the progress bar, plus % / MB in the top bar. |
 | 💬 Subtitles | Drag & drop `.srt` / `.ass` / `.ssa` / `.vtt`; font, size, color, weight, outline and shadow, plus an optional background box. |
 | 🔤 Subtitle sync | `,` / `.` shift subtitles ±0.10 s; `/` resets. |
-| 🖱 Mouse | Middle-click → fullscreen · double-click → play/pause · wheel → volume. |
 | 🎬 YouTube look | Dark & light themes, red progress bar, crisp vector icons. |
 | 🪟 Frameless window | Custom title bar (min / max / close), drag to move, resize from edges. |
 | 📌 Overlay controls | Controls float **over** the video — the video never resizes. |
 | 🙈 Auto-hide | In fullscreen, controls and cursor hide after a few seconds; keyboard seeks don't reveal them. |
 | 🔊 Volume OSD | Numeric % + a top-left OSD on change (font / color / opacity / background configurable). |
-| ⏹ Stop button | Full stop and unload (key `S`). |
 | 🔗 URL panel | Paste a link when idle, with Paste / Play / Open file. |
 | 🎞 Playlist | Open several files at once, next / previous, **auto-advance on end**, right-docked sidebar. |
 | 🕘 Recent files | Quick re-open of the last videos/links. |
